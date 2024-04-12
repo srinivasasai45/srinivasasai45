@@ -9,7 +9,7 @@ spring="a94d6u"
 summer="t50e9u"
 sd="#"
 
-directory="/Users/arfaz/Library/CloudStorage/OneDrive-UniversityofVictoria/0 UVIC/3 Co-Op/1 Y3/3B/1 Applications/3 Apr'10x"
+directory="/Users/srinivasasai/Library/CloudStorage/OneDrive-UniversityofVictoria/0 UVIC/3 Co-Op/1 Y3/3B/1 Applications/3 Apr'10x"
 
 baseDir=${directory##*/}
 baseDir=${baseDir#*[!0-9]}
